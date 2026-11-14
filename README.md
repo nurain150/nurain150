@@ -17,6 +17,7 @@ I'm particularly interested in collaborating on useful developer tools, librarie
 
 ### Find Me
 - **GitHub:** [@nurain150](https://github.com/nurain150)
-  **Email**  nuraineyitemi@gmail.com
+
+  **Email:**  nuraineyitemi@gmail.com
 
 I'm open to interesting conversations, ideas and collaborations.
